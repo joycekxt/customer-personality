@@ -1,0 +1,2 @@
+# customer-personality
+From Kaggle
